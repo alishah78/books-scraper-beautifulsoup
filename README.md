@@ -20,3 +20,7 @@ BeautifulSoup and exports it to a professionally formatted Excel file.
 ## Output
 Generates a clean Excel report containing 900+ book listings with 
 Title, Price, and Stock Availability.
+
+## Demo Video
+Watch a walkthrough of this project here:
+https://drive.google.com/file/d/1CnpXAeapQLiqfkQZl7DqehXkhh1xTe-_/view?usp=drive_link
